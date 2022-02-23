@@ -1,0 +1,6 @@
+/* 1440px */
+@media (max-width: 25rem) {
+  .container {
+    margin: 0 1.5rem;
+  }
+}
