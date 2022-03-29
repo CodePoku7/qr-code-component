@@ -17,7 +17,7 @@ The main idea was to build a qr code visual and responsive component
 
 ### Screenshot
 
-![](.Screenshot\Screenshot.jpg)
+![](./Screenshot/Screenshot.jpg)
 
 ## My process
 
